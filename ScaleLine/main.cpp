@@ -149,7 +149,6 @@ void timf(int value)
 
 int main(int argc, char* argv[])
 {
-	cout << 9 / 5;
     WindW = 750;
     WindH = 750;
 
